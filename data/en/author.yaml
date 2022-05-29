@@ -3,11 +3,11 @@ name: "Raquel L. Costa"
 nickname: "quelopes"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/author/john.png"
+image: "images/author/origamiScience.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "johndoe@example.com"
-  phone: "+0123456789"
+  email: "quelopes@gmail.com"
+  phone: "+4901702663538"
 
 # some summary about what you do
 summary:
