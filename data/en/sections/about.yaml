@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Bioinformatician
+designation: Bioinformatician, data science and visualization
 # your company information
 #company:
 #  name: Example Co.
@@ -18,7 +18,7 @@ designation: Bioinformatician
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'Summary......'
+summary: 'I’m a biologist by training with 13 years of bioinformatics and computational biology experience. I got my doctoral and master’s degrees in Computational Modeling at National Laboratory for Scientific Computing - [LNCC](www.lncc.br), in Petrópolis, Brazil. Since then, I’ve been working on different bioinformatics projects especially related to cancer molecular analysis, viruses, and hereditary cardiovascular diseases. In these projects, I worked with clinical data, and Next Generation Sequencing `NGS` analysis (from Whole Exome Sequencing WES, `RNA-seq`). Also, I analyzed data from microarray (Affymetrix) and methylation (450k) platforms. In computation approaches, I’ve been working with `data integration`, scientific workflows, virtualization (docker container), `HPC` (High-performance computing), and databases (relational and non-relational databases such as graph databases). I use R as the main language, but I also have experience in python and C.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -26,6 +26,24 @@ socialLinks:
 - name: Github
   icon: "fab fa-github"
   url: "https://www.github.com/quelopes"
+  
+- name: Email
+  icon: "fas fa-envelope"
+  url: "quelopes@gmail.com"
+  
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "#"
+  
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "#"
+  
+- name: Orcid
+  icon: "fab fa-orcid"
+  url: https://orcid.org/0000-0002-0468-0117
+  
+  
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
